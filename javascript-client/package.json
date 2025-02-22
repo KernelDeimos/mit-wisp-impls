@@ -1,0 +1,17 @@
+{
+  "name": "javascript-client",
+  "version": "1.0.0",
+  "main": "client.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "@heyputer/putility": "^1.0.2",
+    "ws": "^8.18.1"
+  }
+}
