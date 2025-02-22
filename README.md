@@ -20,3 +20,6 @@ Eventually, however, I would like to do this:
   generator that implements most of the required code
   (excluding boilerplate, package manifests, etc)
   for the actual WISP implementations.
+
+### Development Video Log
+- [initial development](https://www.youtube.com/watch?v=kXnJ5Z1LII0)
